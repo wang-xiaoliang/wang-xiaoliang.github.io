@@ -48,11 +48,11 @@ which demonstrates the effectiveness of utilizing deep Convolutional Neural Netw
 
 <br>
 
-* ### Internet of Things for Smart Surveillance
+* ### Internet of Things for Remote Sensing
 
-<img src="/images/IoT.png" alt="Internet of Things for Smart Surveillance" hspace="40">
+<img src="/images/IoT.png" alt="Internet of Things for Remote Sensing" hspace="40">
 
 <div><p class="ex1"><font size="3">The Internet of Things (IoT) is the extension of Internet connectivity into physical devices and everyday objects. 
 Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact 
 with others over the Internet, and they can be remotely monitored and controlled. We developed various cyber-physical systems and leveraged machine learning based
-data-driven approach to provide smart surveillance services.</font></p></div>
+data-driven approach to provide remote sensing services.</font></p></div>

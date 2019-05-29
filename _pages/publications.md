@@ -18,11 +18,11 @@ author_profile: true
 <b>Conference</b><br>
 
 [C1] Benjamin Standfield, Wei-Bang Chen, Yujuan Wang, Yongjin Lu, Ahmed F. Abdelzaher, <b>Xiaoliang Wang</b>, Xin-Guang Yang, "<b>Using Convolutional Neural Networks to Detect and Extract Retinal Blood Vessels in Fundoscopic Images</b>", 
-     <i>IEEE 2nd International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2019), March, 2019.</i> &nbsp;<br><br>
+     in <i>IEEE 2nd International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2019), March, 2019.</i> &nbsp;<br><br>
 [C2] <b>Xiaoliang Wang</b>, Peng Cheng, Xinchuan Liu, Benedict Uzochukwu, “<b>Fast and Accurate, Convolutional Neural Network Based Approach for Object Detection from UAV</b>”, 
-     <i>IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society, October, 2018.</i> &nbsp;<br><br>
+     in <i>44th Annual Conference of the IEEE Industrial Electronics Society (IECON 2018), October, 2018.</i> &nbsp;<br><br>
 [C3] <b>Xiaoliang Wang</b>, Yongjin Lu, Yujuan Wang, Wei-Bang Chen, “<b>Diabetic Retinopathy Stage Classification Using Convolutional Neural Networks</b>”, 
-     <i>2018 IEEE International Conference on Information Reuse and Integration (IRI), July, 2018.</i> &nbsp;<br><br>
+     in <i>2018 IEEE International Conference on Information Reuse and Integration (IRI), July, 2018.</i> &nbsp;<br><br>
 [C4] <b>Xiaoliang Wang</b>, Peng Cheng, Xinchuan Liu and Benedict Uzochukwu, "<b>Focal Loss Dense Detector for Vehicle Surveillance</b>", 
      in <i>International Conference on Intelligent Systems and Computer Vision(ISCV), April 2018.</i> &nbsp;<br><br>
 [C5] <b>Xiaoliang Wang</b>, Wei Wang, and Zhanpeng Jin, "<b>Context-Aware, Reinforcement Learning-Based Mobile Cloud Computing for Telemonitoring</b>",
