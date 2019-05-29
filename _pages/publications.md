@@ -29,10 +29,10 @@ author_profile: true
      in <i>Proceedings of 2018 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2018, pp. 426–429.</i>  &nbsp;<br><br>
 [C6] <b>Xiaoliang Wang</b>, Wenyao Xu, and Zhanpeng Jin, "<b>A Hidden Markov Model Based Dynamic Scheduling Approach for Mobile Cloud Health Monitoring</b>", 
      in <i>Proceedings of 2017 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2017, pp. 273–276.</i>  &nbsp;<!--<a href="A Hidden Markov Model based dynamic scheduling approach for mobile cloud telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
-[C7] Qiong Gui, <b>Xiaoliang Wang</b>, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Finding Needles in a Haystack: Reducing False Alarm Rate Using Telemedicine Mobile Cloud</b>",
-     in <i>Proceedings of 2013 IEEE International Conference on Healthcare Informatics. IEEE, 2013, pp. 541–544.</i>  &nbsp;<!--<a href="Finding needles in a haystack-Reducing false alarm rate using telemedicine mobile cloud.pdf" target="_blank">PDF</a>--><br><br>
-[C8] Zhanpeng Jin, <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, and Sejun Song, "<b>Improving Diagnostic Accuracy Using Multiparameter Patient Monitoring Based on Data Fusion in the Cloud</b>", 
+[C7] Zhanpeng Jin, <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, and Sejun Song, "<b>Improving Diagnostic Accuracy Using Multiparameter Patient Monitoring Based on Data Fusion in the Cloud</b>", 
      in <i>Future Information Technology. Springer, 2014, pp. 473–476.</i> &nbsp;<!--<a href="Improving Diagnostic Accuracy Using Multiparameter Patient Monitoring Based on Data Fusion in the Cloud.pdf" target="_blank">PDF</a>--><br><br>
+[C8] Qiong Gui, <b>Xiaoliang Wang</b>, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Finding Needles in a Haystack: Reducing False Alarm Rate Using Telemedicine Mobile Cloud</b>",
+     in <i>Proceedings of 2013 IEEE International Conference on Healthcare Informatics. IEEE, 2013, pp. 541–544.</i>  &nbsp;<!--<a href="Finding needles in a haystack-Reducing false alarm rate using telemedicine mobile cloud.pdf" target="_blank">PDF</a>--><br><br>
 [C9] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Yu Chen, and Zhanpeng Jin, "<b>Leveraging Mobile Cloud for Telemedicine: A Performance Study in Medical Monitoring</b>", 
      in <i>Proceedings of 2013 39th Annual Northeast Bioengineering Conference. IEEE, 2013, pp. 49–50.</i>  &nbsp;<!--<a href="Leveraging mobile cloud for telemedicine-a performance study in medical monitoring.pdf" target="_blank">PDF</a>--><br><br>
 
