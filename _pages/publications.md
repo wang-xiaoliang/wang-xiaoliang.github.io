@@ -26,7 +26,7 @@ author_profile: true
 [C4] <b>Xiaoliang Wang</b>, Peng Cheng, Xinchuan Liu and Benedict Uzochukwu, "<b>Focal Loss Dense Detector for Vehicle Surveillance</b>", 
      in <i>Proceedings of 2018 International Conference on Intelligent Systems and Computer Vision (ISCV). IEEE, 2018, pp. 1-5.</i> &nbsp;<br><br>
 [C5] <b>Xiaoliang Wang</b>, Wei Wang, and Zhanpeng Jin, "<b>Context-Aware, Reinforcement Learning-Based Mobile Cloud Computing for Telemonitoring</b>",
-     in <i>Proceedings 2018 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2018, pp. 426–429.</i>  &nbsp;<br><br>
+     in <i>Proceedings of 2018 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2018, pp. 426–429.</i>  &nbsp;<br><br>
 [C6] <b>Xiaoliang Wang</b>, Wenyao Xu, and Zhanpeng Jin, "<b>A Hidden Markov Model Based Dynamic Scheduling Approach for Mobile Cloud Health Monitoring</b>", 
      in <i>Proceedings of 2017 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2017, pp. 273–276.</i>  &nbsp;<!--<a href="A Hidden Markov Model based dynamic scheduling approach for mobile cloud telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
 [C7] Qiong Gui, <b>Xiaoliang Wang</b>, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Finding Needles in a Haystack: Reducing False Alarm Rate Using Telemedicine Mobile Cloud</b>",
