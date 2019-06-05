@@ -7,7 +7,7 @@ author_profile: true
 
 <b>Journal</b><br>
 
-[J1] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>",<i>IEEE Access, 2019.</i> (Accepted) &nbsp;<br><br>
+[J1] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>",<i>IEEE Access, vol. 7, no. 1, 2019.</i> &nbsp;<br><br>
 [J2] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>",
       <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, 2018.</i> &nbsp;<br><br>
 [J3] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", 
