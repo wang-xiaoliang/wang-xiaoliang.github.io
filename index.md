@@ -16,6 +16,6 @@ author_profile: true
 
 <b>Recent News</b>
 
-* August 7,2019. Dr. Xiaoliang Wang joined <i>Surface Engineering Research Day</i> hosted by Commonwealth Center for Advanced Manufacturing (CCAM). 
+* August 7, 2019. Dr. Xiaoliang Wang joined <i>Surface Engineering Research Day</i> hosted by Commonwealth Center for Advanced Manufacturing (CCAM). 
 * April 30, 2019. Dr. Xiaoliang Wang with his students attended and presented their work at <i>the Logistics Workshop on Intermodal Mobility of Goods and Services</i> held by Virginia Commonwealth Center for Advanced Logistics Systems (CCALS) in Richmond, VA.
  
