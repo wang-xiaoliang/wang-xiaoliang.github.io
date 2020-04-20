@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Refereed Journal Publications</b><br>
+<b>Refereed Journals</b><br>
 
 [J1] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
 [J2] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, pp. 40-58, 2018.</i> &nbsp;<br><br>
@@ -13,7 +13,7 @@ author_profile: true
 [J4] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", 
       <i>Journal of Cable Television Technology, pp. 103-105, December 2008.</i>
 
-<b>Refereed Conference and Workshop Publications</b><br>
+<b>Refereed Conference and Workshop Proceedings</b><br>
 
 [C1] <b>Xiaoliang Wang</b>, Yongjin Lu, Wei-Bang Chen, "<b>Promote Retinal Lesion Detection for Diabetic Retinopathy Stage Classification</b>", 
      in <i>Proceedings of 2020 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). IEEE, 2020.</i> &nbsp;<br><br>
