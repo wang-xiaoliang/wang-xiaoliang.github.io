@@ -16,7 +16,7 @@ author_profile: true
 
 <b>Recent News</b>
 
-* December, 2019. Dr. Xiaoliang Wang, as Co-PI, received Research and Education Program for HBCU/MI Equipment Award from US Department of Defense to support his research in leveraging Cyber-Physical Systems for Smart Manufacturing.
+* December, 2019. Dr. Xiaoliang Wang, as Co-PI, received Research and Education Program for HBCU/MI Equipment Award from US Department of Defense (DoD) to support his research in leveraging Cyber-Physical Systems for Smart Manufacturing.
 * August 7, 2019. Dr. Xiaoliang Wang joined <i>Surface Engineering Research Day</i> hosted by Commonwealth Center for Advanced Manufacturing (CCAM) in Disputanta, VA. 
 * April 30, 2019. Dr. Xiaoliang Wang with his students attended and presented their work at <i>the Logistics Workshop on Intermodal Mobility of Goods and Services</i> held by Virginia Commonwealth Center for Advanced Logistics Systems (CCALS) in Richmond, VA.
  
