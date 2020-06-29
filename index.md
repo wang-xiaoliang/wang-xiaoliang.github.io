@@ -16,6 +16,7 @@ author_profile: true
 
 <b>Recent News</b>
 
+* June 15, 2020. Dr. Xiaoliang Wang, as PI, received research grant from US Department of Defense (DoD) Innovation Driven Research/education Ecosystem for Advanced Manufacturing for the Defense (I-DREAM4D) Consortium to support his research.
 * December, 2019. Dr. Xiaoliang Wang, as Co-PI, received Research and Education Program for HBCU/MI Equipment Award from US Department of Defense (DoD) to support his research in <i>Cyber-Physical Systems for Smart Manufacturing</i>.
 * August 7, 2019. Dr. Xiaoliang Wang joined <i>Surface Engineering Research Day</i> hosted by Commonwealth Center for Advanced Manufacturing (CCAM) in Disputanta, VA. 
 * April 30, 2019. Dr. Xiaoliang Wang with his students attended and presented their work at <i>the Logistics Workshop on Intermodal Mobility of Goods and Services</i> held by Virginia Commonwealth Center for Advanced Logistics Systems (CCALS) in Richmond, VA.
