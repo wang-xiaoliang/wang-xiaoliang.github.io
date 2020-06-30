@@ -30,25 +30,6 @@ div {
   display: table;
 }
 
-.gfg {
-    float: left; 
-    width:auto; 
-    text-align:center; 
-    padding:5px; 
-} 
-
-image { 
-    width: 14%; 
-    height: 14%; 
-    object-fit: contain; 
-}
-
-imag { 
-    width: 67%; 
-    height: 67%; 
-    object-fit: contain; 
-}
-
 </style>
 
 * ### Mobile Cloud Computing for Pervasive Healthcare
@@ -115,10 +96,10 @@ data-driven approach to provide remote sensing services.</font></p></div>
 <b>Sponsors</b><br>
 
 <div class="row">
-  <div class="gfg">
-    <image src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense">
+  <div class="column">
+    <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:168px;height:168px;">
   </div>
-  <div class="gfg">
-    <imag src="/images/VSU.png" alt="Virginia State University">
+  <div class="column">
+    <img src="/images/VSU.png" alt="Virginia State University" style="width:168px;height:168px;">
   </div>
 </div>
