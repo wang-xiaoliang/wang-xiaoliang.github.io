@@ -33,6 +33,23 @@ in terms of diagnostic accuracy, execution efficiency and energy efficiency.</fo
 
 <br>
 
+* ### Cyber Physical Systems for Smart Manufacturing
+
+<img src="/images/SmartManufacturing.jpg" alt="Cyber Physical Systems for Smart Manufacturing" hspace="40">
+
+<div><p class="ex1"><font size="3">Fog Computing has been regarded as the extension of Cloud Computing to the edge of the network. 
+Compared to the traditional cloud computing, fog computing emphasizes proximity to end-users and client objectives, 
+dense geographical distribution and local resource pooling, latency reduction and backbone bandwidth savings to achieve 
+better quality of service (QoS) and edge analytics/stream mining. The Fog Node or Edge Node would be built based on the smartphones, 
+tablets and laptop computers to execute some intermediate and time critical procedures, such as inference stage in machine learning algorithm. 
+But on the other side, remote cloud computing data centers are still indispensable for undertaking some computation intensive tasks 
+and long-term object oriented data analysis. With the concern of restricted computational capabilities provided by Edge nodes, 
+those data intensive computation, such as training, need to be performed in aggregated cloud data center relying on its powerful 
+computing server. The cloud center could also provide extensive data storage and web service for people to access the machining information. 
+In such a way, machinary could be maintained with high performance through real time automation control and manufacturing procedure monitoring.</font></p></div>
+
+<br>
+
 * ### Diabetic Retinopathy Stage Classification Based on Fundoscopic Image Analysis
 
 <img src="/images/DR.png" alt="Diabetic Retinopathy Stage Classification" hspace="40">
