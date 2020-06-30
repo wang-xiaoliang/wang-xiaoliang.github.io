@@ -92,6 +92,8 @@ Embedded with electronics, Internet connectivity, and other forms of hardware (s
 with others over the Internet, and they can be remotely monitored and controlled. We developed various cyber-physical systems and leveraged machine learning based
 data-driven approach to provide remote sensing services.</font></p></div>
 
+<br>
+
 <b>Sponsors</b><br>
 
 <div class="row">
@@ -99,6 +101,6 @@ data-driven approach to provide remote sensing services.</font></p></div>
     <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:180px;height:180px;">
   </div>
   <div class="column">
-    <img src="/images/VSU.png" alt="Virginia State University" style="width:256px;height:163px;">
+    <img src="/images/VSU.png" alt="Virginia State University" style="width:180px;height:180px;">
   </div>
 </div>
