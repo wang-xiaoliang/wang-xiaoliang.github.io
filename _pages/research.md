@@ -37,13 +37,13 @@ div {
     padding:5px; 
 } 
 
-img1 { 
+image { 
     width: 14%; 
     height: 14%; 
     object-fit: contain; 
 }
 
-img2 { 
+imag { 
     width: 67%; 
     height: 67%; 
     object-fit: contain; 
@@ -116,9 +116,9 @@ data-driven approach to provide remote sensing services.</font></p></div>
 
 <div class="row">
   <div class="gfg">
-    <img1 src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense">
+    <image src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense">
   </div>
   <div class="gfg">
-    <img2 src="/images/VSU.png" alt="Virginia State University">
+    <imag src="/images/VSU.png" alt="Virginia State University">
   </div>
 </div>
