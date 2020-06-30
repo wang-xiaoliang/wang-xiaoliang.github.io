@@ -76,5 +76,11 @@ data-driven approach to provide remote sensing services.</font></p></div>
 
 <b>Sponsors</b><br>
 
-<img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:240px;height:240px;" vspace="10">
-<img src="/images/VSU.png" alt="Virginia State University" style="width:420px;height:241px;" vspace="10">
+<div class="row">
+  <div class="column">
+    <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:240px;height:240px;">
+  </div>
+  <div class="column">
+    <img src="/images/VSU.png" alt="Virginia State University" style="width:360px;height:206px;">
+  </div>
+</div>
