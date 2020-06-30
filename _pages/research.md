@@ -30,14 +30,15 @@ div {
   display: table;
 }
 
-.gfg { 
+.gfg {
+    float: left; 
     width:auto; 
     text-align:center; 
-    padding:20px; 
+    padding:5px; 
 } 
 img { 
-    width: 100%; 
-    height: 100%; 
+    width: 67%; 
+    height: 67%; 
     object-fit: contain; 
 }
 
