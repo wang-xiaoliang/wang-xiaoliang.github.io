@@ -44,7 +44,7 @@ better quality of service (QoS) and edge analytics/stream mining. The Fog Node o
 tablets and laptop computers to execute some intermediate and time critical procedures, such as inference stage in machine learning algorithm. 
 But on the other side, remote cloud computing data centers are still indispensable for undertaking some computation intensive tasks 
 and long-term object oriented data analysis. With the concern of restricted computational capabilities provided by Edge nodes, 
-those data intensive computation, such as training, need to be performed in aggregated cloud data center relying on its powerful 
+those data intensive computation, such as training procedure of machine learning, need to be performed in aggregated cloud data center relying on its powerful 
 computing server. The cloud center could also provide extensive data storage and web service for people to access the machining information. 
 In such a way, machinary could be maintained with high performance through real time automation control and manufacturing procedure monitoring.</font></p></div>
 
@@ -73,3 +73,7 @@ which demonstrates the effectiveness of utilizing deep Convolutional Neural Netw
 Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact 
 with others over the Internet, and they can be remotely monitored and controlled. We developed various cyber-physical systems and leveraged machine learning based
 data-driven approach to provide remote sensing services.</font></p></div>
+
+<b>Sponsors</b><br>
+
+<img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" vspace="10">
