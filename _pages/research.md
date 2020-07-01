@@ -31,6 +31,12 @@ div {
   display: table;
 }
 
+.img {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
 </style>
 
 * ### Mobile Cloud Computing for Pervasive Healthcare
