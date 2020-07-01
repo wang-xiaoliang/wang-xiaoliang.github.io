@@ -21,6 +21,7 @@ div {
 .column {
   float: left;
   padding: 15px;
+  vertical-align: middle;
 }
 
 /* Clearfix (clear floats) */
