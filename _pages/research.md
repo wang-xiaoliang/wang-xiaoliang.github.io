@@ -20,7 +20,7 @@ div {
 
 .column {
   float: left;
-  padding: 5px;
+  padding: 15px;
 }
 
 /* Clearfix (clear floats) */
@@ -103,6 +103,6 @@ data-driven approach to provide remote sensing services.</font></p></div>
     <img src="/images/VSU.png" alt="Virginia State University" style="width:126px;height:126px;">
   </div>
   <div class="column">
-    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:372px;height:63px;">
+    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:186px;height:32px;">
   </div>
 </div>
