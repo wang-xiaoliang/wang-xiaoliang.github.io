@@ -97,9 +97,12 @@ data-driven approach to provide remote sensing services.</font></p></div>
 
 <div class="row">
   <div class="column">
-    <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:168px;height:168px;">
+    <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:112px;height:112px;">
   </div>
   <div class="column">
-    <img src="/images/VSU.png" alt="Virginia State University" style="width:168px;height:168px;">
+    <img src="/images/VSU.png" alt="Virginia State University" style="width:112px;height:112px;">
+  </div>
+  <div class="column">
+    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:372px;height:63px;">
   </div>
 </div>
