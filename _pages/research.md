@@ -93,7 +93,7 @@ data-driven approach to provide remote sensing services.</font></p></div>
 
 <br>
 
-<h1>Sponsors</h1>
+<h2>Sponsors</h2>
 
 <div class="row">
   <div class="column">
