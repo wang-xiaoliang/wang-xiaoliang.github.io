@@ -22,7 +22,7 @@ div {
   float: left;
   padding: 15px;
   vertical-align: middle;
-  display: table-cell;
+  display: table;
 }
 
 /* Clearfix (clear floats) */
@@ -33,7 +33,7 @@ div {
 }
 
 img {
-    display: block;
+    display: table-cell;
     vertical-align: middle;
     text-align: center;
 }
