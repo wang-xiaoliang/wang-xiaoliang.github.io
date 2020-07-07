@@ -20,7 +20,7 @@ div {
 
 .column {
   float: left;
-  padding: 25px;
+  padding: 15px;
 }
 
 /* Clearfix (clear floats) */
