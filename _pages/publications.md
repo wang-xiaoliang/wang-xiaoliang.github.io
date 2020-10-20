@@ -7,10 +7,11 @@ author_profile: true
 
 <b>Refereed Journals</b><br>
 
-[J1] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
-[J2] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, pp. 40-58, 2018.</i> &nbsp;<br><br>
-[J3] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", <i>IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 3, pp. 739-745, May 2014.</i>  &nbsp;<!--<a href="Enabling smart personalized healthcare-a hybrid mobile-cloud approach for ecg telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
-[J4] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", 
+[J1] Yongjin Lu, Wei-Bang Chen, <b>Xiaoliang Wang</b>, Zanyah Ailsworth, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman "<b>Deep Learning-Based Models for Porosity Measurement in Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 11, no. 3, 2020.</i> &nbsp;<br><br>
+[J2] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
+[J3] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, pp. 40-58, 2018.</i> &nbsp;<br><br>
+[J4] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", <i>IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 3, pp. 739-745, May 2014.</i>  &nbsp;<!--<a href="Enabling smart personalized healthcare-a hybrid mobile-cloud approach for ecg telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
+[J5] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", 
       <i>Journal of Cable Television Technology, pp. 103-105, December 2008.</i>
 
 <b>Refereed Conference and Workshop Proceedings</b><br>
