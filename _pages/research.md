@@ -63,7 +63,7 @@ But on the other side, remote cloud computing data centers are still indispensab
 and long-term object oriented data analysis. With the concern of restricted computational capabilities provided by Edge nodes, 
 those data intensive computation, such as training procedure of machine learning, need to be performed in aggregated cloud data center relying on its powerful 
 computing server. The cloud center could also provide extensive data storage and web service for people to access the machining information. 
-In such a way, machinary could be maintained with high performance through real time automation control and manufacturing procedure monitoring.</font></p></div>
+In such a way, machinery could be maintained with high performance through real time automation control and manufacturing procedure monitoring.</font></p></div>
 
 <br>
 
