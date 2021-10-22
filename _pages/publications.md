@@ -7,18 +7,18 @@ author_profile: true
 
 <b>Refereed Journals</b><br>
 
-[J1] Yongjin Lu, Wei-Bang Chen, <b>Xiaoliang Wang</b>, Zanyah Ailsworth, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman "<b>Deep Learning-Based Models for Porosity Measurement in Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 11, no. 3, 2020.</i> &nbsp;<br><br>
-[J2] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
-[J3] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, pp. 40-58, 2018.</i> &nbsp;<br><br>
-[J4] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", <i>IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 3, pp. 739-745, May 2014.</i>  &nbsp;<!--<a href="Enabling smart personalized healthcare-a hybrid mobile-cloud approach for ecg telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
-[J5] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", 
-      <i>Journal of Cable Television Technology, pp. 103-105, December 2008.</i>
+[J1] Heng Li, Taher M Abu-Lebdeh, Sameer A Hamoush, Vincent E. Lamberti, <b>Xiaoliang Wang</b>, “<b>The Impact of Bulk Density on Shape of a Cohesive-less Granular Heap</b>”, <i>International Journal of Applied Science and Technology, vol. 11, no. 2, 2021.</i> &nbsp;<br><br>
+[J2] Yongjin Lu, Wei-Bang Chen, <b>Xiaoliang Wang</b>, Zanyah Ailsworth, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman "<b>Deep Learning-Based Models for Porosity Measurement in Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 11, no. 3, 2020.</i> &nbsp;<br><br>
+[J3] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
+[J4] Wei-Bang Chen, Benjamin Standfield, Song Gao, Yongjin Lu, <b>Xiaoliang Wang</b>, Zimmerman Ben, "<b>A Fully Automated Porosity Measure for Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 9, no. 4, pp. 40-58, 2018.</i> &nbsp;<br><br>
+[J5] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", <i>IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 3, pp. 739-745, May 2014.</i>  &nbsp;<!--<a href="Enabling smart personalized healthcare-a hybrid mobile-cloud approach for ecg telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
+[J6] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", <i>Journal of Cable Television Technology, pp. 103-105, December 2008.</i>
 
 <b>Refereed Conference and Workshop Proceedings</b><br>
 
 [C1] Zanyah Alisworth, Wei-Bang Chen, Yongjin Lu, <b>Xiaoliang Wang</b>, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman, "<b>A Hybrid Image Segmentation Approach for Thermal Barrier Coating Quality Assessments</b>", 
      in <i>Proceedings of 2021 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). IEEE, 2021.</i> &nbsp;<br><br>
-[C2] Wei-Bang Chen, Yongjin Lu, Zanyah Ailsworth, <b>Xiaoliang Wang</b>, Chengcui Zhang, “<b>Enhancing Multimodal Clustering Framework with Deep Learning to Reveal Image Spam Authorship</b>”, 
+[C2] Wei-Bang Chen, Yongjin Lu, Zanyah Ailsworth, <b>Xiaoliang Wang</b>, “<b>Enhancing Multimodal Clustering Framework with Deep Learning to Reveal Image Spam Authorship</b>”, 
      in <i>Proceedings of 2021 IEEE International Conference on Information Reuse and Integration (IRI). IEEE, 2021.</i> &nbsp;<br><br>	 
 [C3] <b>Xiaoliang Wang</b>, Yongjin Lu, Wei-Bang Chen, "<b>Promote Retinal Lesion Detection for Diabetic Retinopathy Stage Classification</b>", 
      in <i>Proceedings of 2020 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). IEEE, 2020, vol. 1, pp. 31-34.</i> &nbsp;<br><br>
