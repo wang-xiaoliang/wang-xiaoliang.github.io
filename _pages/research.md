@@ -107,8 +107,11 @@ data-driven approach to provide remote sensing services.</font></p></div>
   </div>
   <div class="column">
     <img src="/images/VMEC.png" alt="VMEC" style="width:196px;height:49px;">
-  </div>
-  <div class="column">
+  </div>  
+</div>
+
+<div class="row">
+<div class="column">
     <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
   </div>
 </div>
