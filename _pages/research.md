@@ -103,7 +103,7 @@ data-driven approach to provide remote sensing services.</font></p></div>
     <img src="/images/VSU.png" alt="Virginia State University" style="width:84px;height:84px;">
   </div>
   <div class="column">
-    <img src="/images/CCAM.png" alt="CCAM" style="width:150px;height:60px;">
+    <img src="/images/ccam.png" alt="CCAM" style="width:150px;height:60px;">
   </div>
   <div class="column">
     <img src="/images/VMEC.png" alt="VMEC" style="width:196px;height:49px;">
