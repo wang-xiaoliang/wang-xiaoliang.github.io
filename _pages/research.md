@@ -106,7 +106,7 @@ data-driven approach to provide remote sensing services.</font></p></div>
     <img src="/images/CCAM.png" alt="CCAM" style="width:150px;height:60px;">
   </div>
   <div class="column">
-    <img src="/images/VMEC.png" alt="Virginia State University" style="width:196px;height:49px;">
+    <img src="/images/VMEC.png" alt="VMEC" style="width:196px;height:49px;">
   </div>
   <div class="column">
     <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
