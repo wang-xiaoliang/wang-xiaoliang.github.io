@@ -19,6 +19,8 @@ div {
 }
 
 .column {
+  position: absolute;
+  top: 50%;
   float: left;
   padding: 15px;
 }
