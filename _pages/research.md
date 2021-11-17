@@ -19,11 +19,6 @@ div {
 }
 
 .column {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
   float: left;
   padding: 15px;
 }
