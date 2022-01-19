@@ -11,7 +11,7 @@ author_profile: true
 
 * Xiaoliang Wang is currently an Assistant Professor in [Virginia State University](http://www.vsu.edu/).
 * His research interests include Internet of Things, Smart and Connected Health and Cyber-Physical Systems.
-* He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php), under the supervision of Professor [Zhanpeng Jin](https://cybermed.cse.buffalo.edu/wiki/index.php/Main_Page). Prior to that, he received his Master and Bachelor degree from [Tongji University](http://www.tongji.edu.cn).
+* He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php), under the supervision of Professor [Zhanpeng Jin](https://cybermed.cse.buffalo.edu/wiki/index.php/Main_Page). Prior to that, he received his Master and Bachelor degree from Tongji University.
 
 
 <b>Recent News</b>
