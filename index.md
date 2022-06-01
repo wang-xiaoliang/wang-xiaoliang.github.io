@@ -14,8 +14,10 @@ author_profile: true
 * He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php). Prior to that, he received his Master and Bachelor degree from Tongji University.
 
 
-<b>Recent News</b>
+<b>News</b>
 
+<details>
+  <summary>News</summary>
 * June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.  
 * April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.
 * Dr. Xiaoliang Wang, as PI, received Innovation Fund from Commonwealth Center for Advanced Manufacturing (CCAM) to support his research in <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Smart Manufacturing</i>.
@@ -24,4 +26,4 @@ author_profile: true
 * December, 2019. Dr. Xiaoliang Wang, as Co-PI, received Research and Education Program for HBCU/MI Equipment Award from US Department of Defense (DoD) to support his research in <i>Cyber-Physical Systems for Smart Manufacturing</i>.
 * August 7, 2019. Dr. Xiaoliang Wang joined <i>Surface Engineering Research Day</i> hosted by Commonwealth Center for Advanced Manufacturing (CCAM) in Disputanta, VA. 
 * April 30, 2019. Dr. Xiaoliang Wang with his students attended and presented their work at <i>the Logistics Workshop on Intermodal Mobility of Goods and Services</i> held by Virginia Commonwealth Center for Advanced Logistics Systems (CCALS) in Richmond, VA.
- 
+</details>
