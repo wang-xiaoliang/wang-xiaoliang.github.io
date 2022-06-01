@@ -19,8 +19,8 @@ author_profile: true
 <details>
   <summary>News</summary>
   
-June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.&nbsp;<br><br>  
-April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.&nbsp;<br><br>
+June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.&nbsp;<br>
+April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.&nbsp;<br>
 Dr. Xiaoliang Wang, as PI, received Innovation Fund from Commonwealth Center for Advanced Manufacturing (CCAM) to support his research in <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Smart Manufacturing</i>.&nbsp;<br><br>
 April, 2021. Dr. Xiaoliang Wang joined VSU Graduate Research Initiative (VGRI) Committee and attended VGRI Annual Conference.&nbsp;<br><br>
 June 15, 2020. Dr. Xiaoliang Wang, as PI, received research grant from US Department of Defense (DoD) Innovation Driven Research/education Ecosystem for Advanced Manufacturing for the Defense (I-DREAM4D) Consortium to support his research.&nbsp;<br><br>
