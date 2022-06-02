@@ -67,7 +67,7 @@ In such a way, machinery could be maintained with high performance through real 
 </details>
 
 <details>
-  <summary>Diabetic Retinopathy Stage Classification Based on Fundoscopic Image Analysis</summary>
+  <summary>Diabetic Retinopathy Stage Classification</summary>
 <img src="/images/DR.png" alt="Diabetic Retinopathy Stage Classification" hspace="40">
 
 <div><p class="ex1"><font size="3">Diabetic Retinopathy (DR) stage classification has been regarded as a critical step for evaluation and management of diabetes retinopathy. 
