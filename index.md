@@ -17,7 +17,7 @@ author_profile: true
 <b>News</b>
 
 <details>
-  <summary>News</summary>
+  <summary>Old News</summary>
 <br>
 June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.&nbsp;<br><br>
 April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.&nbsp;<br><br>

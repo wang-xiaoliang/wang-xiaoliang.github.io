@@ -32,6 +32,9 @@ div {
 
 </style>
 
+<details>
+  <summary>Mobile Cloud Computing for Pervasive Healthcare</summary>
+<br>
 * ### Mobile Cloud Computing for Pervasive Healthcare
 
 <img src="/images/MCC_Health.png" alt="Mobile Cloud Computing for Pervasive Healthcare" hspace="40">
@@ -49,6 +52,8 @@ significantly enhance the conventional mobile-based health monitoring
 in terms of diagnostic accuracy, execution efficiency and energy efficiency.</font></p></div>
 
 <br>
+
+</details>
 
 * ### Cyber Physical Systems for Smart Manufacturing
 
@@ -98,9 +103,6 @@ data-driven approach to provide remote sensing services.</font></p></div>
 <div class="row">
   <div class="column">
     <img src="/images/United_States_Department_of_Defense_Seal.svg.png" alt="US Department of Defense" style="width:84px;height:84px;">
-  </div>
-  <div class="column">
-    <img src="/images/VSU.png" alt="Virginia State University" style="width:84px;height:84px;">
   </div>
   <div class="column">
     <img src="/images/ccam.png" alt="CCAM" style="width:150px;height:60px;">
