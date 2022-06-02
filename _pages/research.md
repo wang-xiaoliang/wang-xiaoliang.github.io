@@ -34,6 +34,7 @@ div {
 
 <details>
   <summary>Mobile Cloud Computing for Pervasive Healthcare</summary>
+<br>
 <img src="/images/MCC_Health.png" alt="Mobile Cloud Computing for Pervasive Healthcare" hspace="40">
 
 <div><p class="ex1"><font size="3">Recent advances on wearable and mobile technologies have made 
@@ -52,6 +53,7 @@ in terms of diagnostic accuracy, execution efficiency and energy efficiency.</fo
 
 <details>
   <summary>Cyber Physical Systems for Smart Manufacturing</summary>
+<br>
 <img src="/images/SmartManufacturing.jpg" alt="Cyber Physical Systems for Smart Manufacturing" hspace="40">
 
 <div><p class="ex1"><font size="3">Fog Computing has been regarded as the extension of Cloud Computing to the edge of the network. 
@@ -68,6 +70,7 @@ In such a way, machinery could be maintained with high performance through real 
 
 <details>
   <summary>Diabetic Retinopathy Stage Classification</summary>
+<br>
 <img src="/images/DR.png" alt="Diabetic Retinopathy Stage Classification" hspace="40">
 
 <div><p class="ex1"><font size="3">Diabetic Retinopathy (DR) stage classification has been regarded as a critical step for evaluation and management of diabetes retinopathy. 
@@ -82,6 +85,7 @@ which demonstrates the effectiveness of utilizing deep Convolutional Neural Netw
 
 <details>
   <summary>Internet of Things for Remote Sensing</summary>
+<br>
 <img src="/images/IoT.png" alt="Internet of Things for Remote Sensing" hspace="40">
 
 <div><p class="ex1"><font size="3">The Internet of Things (IoT) is the extension of Internet connectivity into physical devices and everyday objects. 
