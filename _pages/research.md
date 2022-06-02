@@ -34,9 +34,6 @@ div {
 
 <details>
   <summary>Mobile Cloud Computing for Pervasive Healthcare</summary>
-<br>
-* ### Mobile Cloud Computing for Pervasive Healthcare
-
 <img src="/images/MCC_Health.png" alt="Mobile Cloud Computing for Pervasive Healthcare" hspace="40">
 
 <div><p class="ex1"><font size="3">Recent advances on wearable and mobile technologies have made 
@@ -50,13 +47,11 @@ we explored and studied new optimization strategies to help mobile cloud healthc
 It was showed that our proposed approach can 
 significantly enhance the conventional mobile-based health monitoring 
 in terms of diagnostic accuracy, execution efficiency and energy efficiency.</font></p></div>
-
-<br>
-
 </details>
 
-* ### Cyber Physical Systems for Smart Manufacturing
 
+<details>
+  <summary>Cyber Physical Systems for Smart Manufacturing</summary>
 <img src="/images/SmartManufacturing.jpg" alt="Cyber Physical Systems for Smart Manufacturing" hspace="40">
 
 <div><p class="ex1"><font size="3">Fog Computing has been regarded as the extension of Cloud Computing to the edge of the network. 
@@ -69,11 +64,10 @@ and long-term object oriented data analysis. With the concern of restricted comp
 those data intensive computation, such as training procedure of machine learning, need to be performed in aggregated cloud data center relying on its powerful 
 computing server. The cloud center could also provide extensive data storage and web service for people to access the machining information. 
 In such a way, machinery could be maintained with high performance through real time automation control and manufacturing procedure monitoring.</font></p></div>
+</details>
 
-<br>
-
-* ### Diabetic Retinopathy Stage Classification Based on Fundoscopic Image Analysis
-
+<details>
+  <summary>Diabetic Retinopathy Stage Classification Based on Fundoscopic Image Analysis</summary>
 <img src="/images/DR.png" alt="Diabetic Retinopathy Stage Classification" hspace="40">
 
 <div><p class="ex1"><font size="3">Diabetic Retinopathy (DR) stage classification has been regarded as a critical step for evaluation and management of diabetes retinopathy. 
@@ -84,18 +78,17 @@ In our work, representative Diabetic Retinopathy (DR) images have been aggregate
 to the expertise of ophthalmologist. Various deep Convolutional Neural Network methods have been employed 
 for DR stage classification. State-of-the-art accuracy result has been achieved, 
 which demonstrates the effectiveness of utilizing deep Convolutional Neural Networks for DR image recognition.</font></p></div>
+</details>
 
-<br>
-
-* ### Internet of Things for Remote Sensing
-
+<details>
+  <summary>Internet of Things for Remote Sensing</summary>
 <img src="/images/IoT.png" alt="Internet of Things for Remote Sensing" hspace="40">
 
 <div><p class="ex1"><font size="3">The Internet of Things (IoT) is the extension of Internet connectivity into physical devices and everyday objects. 
 Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact 
 with others over the Internet, and they can be remotely monitored and controlled. We developed various cyber-physical systems and leveraged machine learning based
 data-driven approach to provide remote sensing services.</font></p></div>
-
+</details>
 <br>
 
 <h3>Sponsors</h3>
@@ -109,11 +102,9 @@ data-driven approach to provide remote sensing services.</font></p></div>
   </div>
   <div class="column">
     <img src="/images/VMEC.png" alt="VMEC" style="width:196px;height:49px;">
+  </div>
+  <div class="column">
+    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
   </div>  
 </div>
 
-<div class="row">
-<div class="column">
-    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
-  </div>
-</div>
