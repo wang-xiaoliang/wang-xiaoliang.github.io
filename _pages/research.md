@@ -89,7 +89,7 @@ Embedded with electronics, Internet connectivity, and other forms of hardware (s
 with others over the Internet, and they can be remotely monitored and controlled. We developed various cyber-physical systems and leveraged machine learning based
 data-driven approach to provide remote sensing services.</font></p></div>
 </details>
-<br>
+
 
 <h3>Sponsors</h3>
 
@@ -102,9 +102,11 @@ data-driven approach to provide remote sensing services.</font></p></div>
   </div>
   <div class="column">
     <img src="/images/VMEC.png" alt="VMEC" style="width:196px;height:49px;">
-  </div>
-  <div class="column">
-    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
   </div>  
 </div>
 
+<div class="row">
+<div class="column">
+    <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
+  </div>
+</div>
