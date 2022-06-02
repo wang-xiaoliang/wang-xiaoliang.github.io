@@ -7,6 +7,7 @@ author_profile: true
 
 <details>
   <summary>Refereed Journals</summary>
+<br>
 [J1] Heng Li, Taher M Abu-Lebdeh, Sameer A Hamoush, Vincent E. Lamberti, <b>Xiaoliang Wang</b>, “<b>The Impact of Bulk Density on Shape of a Cohesive-less Granular Heap</b>”, <i>International Journal of Applied Science and Technology, vol. 11, no. 2, 2021.</i> &nbsp;<br><br>
 [J2] Yongjin Lu, Wei-Bang Chen, <b>Xiaoliang Wang</b>, Zanyah Ailsworth, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman "<b>Deep Learning-Based Models for Porosity Measurement in Thermal Barrier Coating Images</b>", <i>International Journal of Multimedia Data Engineering and Management (IJMDEM), vol. 11, no. 3, 2020.</i> &nbsp;<br><br>
 [J3] <b>Xiaoliang Wang</b>, Zhanpeng Jin, "<b>An Overview of Mobile Cloud Computing for Pervasive Healthcare</b>", <i>IEEE Access, vol. 7, no. 1, pp. 66774-66791, 2019.</i> &nbsp;<br><br>
@@ -14,9 +15,10 @@ author_profile: true
 [J5] <b>Xiaoliang Wang</b>, Qiong Gui, Bingwei Liu, Zhanpeng Jin, and Yu Chen, "<b>Enabling Smart Personalized Healthcare: a Hybrid Mobile-Cloud Approach for ECG Telemonitoring</b>", <i>IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 3, pp. 739-745, May 2014.</i>  &nbsp;<!--<a href="Enabling smart personalized healthcare-a hybrid mobile-cloud approach for ecg telemonitoring.pdf" target="_blank">PDF</a>--><br><br>
 [J6] <b>Xiaoliang Wang</b>, Kailun Zhou and Tao Lin, "<b>Design of H.264 Double Slice Decoder</b>", <i>Journal of Cable Television Technology, pp. 103-105, December 2008.</i>
 </details>
-
+<br>
 <details>
   <summary>Refereed Conference and Workshop Proceedings</summary>
+<br>
 [C1] Zanyah Alisworth, Wei-Bang Chen, Yongjin Lu, <b>Xiaoliang Wang</b>, Melissa Tsui, Huda Al-Ghaib, Ben Zimmerman, "<b>A Hybrid Image Segmentation Approach for Thermal Barrier Coating Quality Assessments</b>", 
      in <i>Proceedings of 2021 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). IEEE, 2021.</i> &nbsp;<br><br>
 [C2] Wei-Bang Chen, Yongjin Lu, Zanyah Ailsworth, <b>Xiaoliang Wang</b>, “<b>Enhancing Multimodal Clustering Framework with Deep Learning to Reveal Image Spam Authorship</b>”, 
