@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-* Xiaoliang Wang is currently an Assistant Professor with Biomedical and Health Informatics Program in Department of Computer Science in [SUNY-Oswego](http://www.oswego.edu/).
+* Xiaoliang Wang is currently an Assistant Professor with Biomedical and Health Informatics Program in Computer Science Department of [State University of New York (SUNY)-Oswego](http://www.oswego.edu/).
 * His research interests include Smart and Connected Health and Internet of Things (Cyber-Physical Systems).
 * He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php). Prior to that, he received his Master and Bachelor degree from Tongji University.
 
