@@ -108,14 +108,14 @@ analytics:
 author:
   name             : "Xiaoliang Wang"
   avatar           : "/images/wang.jpg"
-  bio              : "Assistant Professor at Virginia State University"
-  location         : "Petersburg, VA"
+  bio              : "Assistant Professor at SUNY-Oswego"
+  location         : "Syracuse, NY"
   google_scholar   : Z7TeTv8AAAAJ
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xwang@vsu.edu
+      url: mailto:xiaoliang.wang@oswego.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://wang-xiaoliang.github.io/"

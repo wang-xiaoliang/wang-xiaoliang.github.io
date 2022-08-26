@@ -9,13 +9,13 @@ author_profile: true
 ---
 
 
-* Xiaoliang Wang is currently an Assistant Professor in [Virginia State University](http://www.vsu.edu/).
+* Xiaoliang Wang is currently an Assistant Professor with Biomedical and Health Informatics Program in Department of Computer Science in [SUNY-Oswego](http://www.oswego.edu/).
 * His research interests include Smart and Connected Health and Internet of Things (Cyber-Physical Systems).
 * He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php). Prior to that, he received his Master and Bachelor degree from Tongji University.
 
 
 <details>
-  <summary>News</summary>
+  <summary>Old News</summary>
 <br>
 June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.&nbsp;<br><br>
 April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.&nbsp;<br><br>
