@@ -13,10 +13,14 @@ author_profile: true
 * His research interests include Smart and Connected Health and Internet of Things (Cyber-Physical Systems).
 * He received his PhD degree from [State University of New York (SUNY)-Binghamton](http://www.binghamton.edu/index.php). Prior to that, he received his Master and Bachelor degree from Tongji University.
 
+News
+
+2022 Fall, Dr. Xiaoliang Wang joins State University of New York (SUNY)-Oswego as an Assistant Professor with Biomedical and Health Informatics Program in Computer Science Department. 
 
 <details>
   <summary>Old News</summary>
 <br>
+August, 2022. Congratulations to Ethan Owens from Virginia Commonwealth University, who worked with Dr. Xiaoliang Wang in 2022 Summer, for winning <i>VMEC Gold Scholar Award<\i>! 
 June, 2022. Dr. Xiaoliang Wang worked with the student from Virginia Microelectronics Consortium (VMEC) Scholar Program to design <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Deep Learning</i>.&nbsp;<br><br>
 April, 2022. Dr. Xiaoliang Wang's research work on <i>Deep Learning for Image Segmentation of Cracks in Metal Additive Manufacturing</i> has been exhibited in I-DREAM4D Manufacturing Expo & Exhibition.&nbsp;<br><br>
 Dr. Xiaoliang Wang, as PI, received Innovation Fund from Commonwealth Center for Advanced Manufacturing (CCAM) to support his research in <i>Field-Programmable Gate Array (FPGA) Based Cyber-Physical Systems for Smart Manufacturing</i>.&nbsp;<br><br>
