@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<br>
+BHI501: Introduction to Health Information Systems (Spring 2023) <br>
+BHI507: Quality Assurance Through Informatics (Spring 2023)
 
 <br>
 BHI508: Database Applications (Fall 2022) <br>
