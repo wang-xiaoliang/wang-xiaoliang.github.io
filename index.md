@@ -15,7 +15,7 @@ author_profile: true
 
 News
 
-March, 2023. Dr. Xiaoliang Wang will serve in Technical Program Committee (TPC) of [IEEE IRI 2023](https://homepages.uc.edu/~niunn/IRI23/). Please consider submitting your research work. Thank you!&nbsp;<br><br>
+March, 2023. Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2023](https://homepages.uc.edu/~niunn/IRI23/). Please consider submitting your research work. Thank you!
 
 Fall 2022, Dr. Xiaoliang Wang joins State University of New York (SUNY)-Oswego as an Assistant Professor with Biomedical and Health Informatics Program in Computer Science Department. 
 
