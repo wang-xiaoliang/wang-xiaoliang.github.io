@@ -15,6 +15,8 @@ author_profile: true
 
 News
 
+March, 2023. Dr. Xiaoliang Wang serves in Program Committee of [IEEE IRI 2023](https://homepages.uc.edu/~niunn/IRI23/). Please consider submitting your research work to IEEE IRI 2023. Thank you!
+
 Fall 2022, Dr. Xiaoliang Wang joins State University of New York (SUNY)-Oswego as an Assistant Professor with Biomedical and Health Informatics Program in Computer Science Department. 
 
 <details>
