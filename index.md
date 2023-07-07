@@ -14,6 +14,8 @@ author_profile: true
 
 News
 
+July, 2023. Dr. Xiaoliang Wang received grant from the Early Start Program (ESP) at Office of Research and Sponsored Programs in SUNY-Oswego to support his research.
+
 March, 2023. Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2023](https://homepages.uc.edu/~niunn/IRI23/). Please consider submitting your research work. Thank you!
 
 Fall 2022, Dr. Xiaoliang Wang joins State University of New York (SUNY)-Oswego as an Assistant Professor with Biomedical and Health Informatics Program in Computer Science Department. 
