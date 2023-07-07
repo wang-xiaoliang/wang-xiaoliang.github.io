@@ -114,6 +114,6 @@ data-driven approach to provide remote sensing services.</font></p></div>
     <img src="/images/idream4d.png" alt="IDREAM4D Consortium" style="width:124px;height:21px;">
   </div>
 <div class="column">
-    <img src="/images/SUNY-RF.jpeg" alt="SUNY Research Foundation" style="width:88px;height:55px;">
+    <img src="/images/SUNY-RF.jpeg" alt="SUNY Research Foundation" style="width:106px;height:66px;">
   </div>
 </div>
