@@ -19,7 +19,7 @@ author_profile: true
 <details>
   <summary>Refereed Conference and Workshop Proceedings</summary>
 <br>
-[C1] <b>Xiaoliang Wang</b>, Yongjin Lu, Wei-Bang Chen, “<b>A Deep Learning Based Method for Vitreous Hemorrhage Recognition in Fundoscopic Images</b>”, 
+[C1] <b>Xiaoliang Wang</b>, Yongjin Lu, Wei-Bang Chen, Dominic Baker, “<b>A Deep Learning Based Method for Vitreous Hemorrhage Recognition in Fundoscopic Images</b>”, 
      in <i>Proceedings of 2023 IEEE International Conference on Information Reuse and Integration (IRI). IEEE, 2023.</i> &nbsp;<br><br> 
   
 [C2] Yongjin Lu, Wei-Bang Chen, <b>Xiaoliang Wang</b>, Ben Zimmerman, “<b>Fully Automatic Top Coat Layer Recognition in Thermal Barrier Coating Images</b>”, 
