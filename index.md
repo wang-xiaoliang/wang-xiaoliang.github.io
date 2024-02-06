@@ -14,7 +14,7 @@ author_profile: true
 
 News
 
-December, 2023. Dr. Xiaoliang Wang is invited to serve in Organizing Committee, as the Finance and Registration Co-Chair for [IEEE IRI 2024](https://homepages.uc.edu/~niunn/IRI24/). Please consider submitting your research work. Thank you!
+December, 2023. Dr. Xiaoliang Wang is invited to serve in Organizing Committee, as the Finance and Registration Co-Chair of [IEEE IRI 2024](https://homepages.uc.edu/~niunn/IRI24/). Please consider submitting your research work. Thank you!
 
 July, 2023. Dr. Xiaoliang Wang received grant from the Early Start Program (ESP) at Office of Research and Sponsored Programs in SUNY-Oswego to support his research.
 
