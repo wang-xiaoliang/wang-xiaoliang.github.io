@@ -14,6 +14,8 @@ author_profile: true
 
 News
 
+Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2025](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
+
 April 19, 2024. Dr. Xiaoliang Wang is invited to give a talk in the Center for Vision Research at the Department of Ophthalmology in SUNY Upstate Medical University.
 
 December, 2023. Dr. Xiaoliang Wang is invited to serve in Organizing Committee, as the Finance and Registration Co-Chair of [IEEE IRI 2024](https://homepages.uc.edu/~niunn/IRI24/). Please consider submitting your research work. Thank you!
