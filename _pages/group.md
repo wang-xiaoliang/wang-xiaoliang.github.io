@@ -5,15 +5,15 @@ permalink: /group/
 author_profile: true
 ---
 
-<h3>Master Student</h3>
+<h2>Master Student</h2>
 
 <b>Irisa Berisha</b> <br><br>
 <b>Shiju Thomas</b> <br><br>
 <b>Chandra Sekhar Dammalapati</b>
 
-<h2>Alumni</h2>
+<h1>Alumni</h1>
 
-<h3>Master Student</h3>
+<h2>Master Student</h2>
 
 <b>Anne Kabarame (Spring 2025)</b><br><br>
 <b>Sai vivek Nalla (Spring 2025) <i>(Initial Employment: Auburn Community Hospital)</i></b> <br><br>
