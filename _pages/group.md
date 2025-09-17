@@ -11,7 +11,7 @@ author_profile: true
 <b>Shiju Thomas</b> <br><br>
 <b>Chandra Sekhar Dammalapati</b>
 
-<h1>Alumni</h1>
+<h2>Alumni:</h2>
 
 <h2>Master Student</h2>
 
@@ -33,7 +33,7 @@ author_profile: true
 <b>Matthew Neumeyer (Spring 2023)</b> <br><br>
 <b>Emily Curtis (Fall 2022) <i>(Initial Employment: New England Medical Innovation Center (NEMIC))</i></b>
 
-<h3>Undergraduate Student</h3>
+<h2>Undergraduate Student</h2>
 <b>Ethan Owens (VCU Summer 2022)</b> <br><br>
 <b>Justin Lowery (VSU Summer 2022)</b>
 
