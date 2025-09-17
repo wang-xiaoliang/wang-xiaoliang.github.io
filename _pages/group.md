@@ -11,7 +11,7 @@ Irisa Berisha
 Shiju Thomas
 Chandra Sekhar Dammalapati
 
-Alumni:
+<h3>Alumni:</h3>
 
 <h3>Master Student</h3>
 
