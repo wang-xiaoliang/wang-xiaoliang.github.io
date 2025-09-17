@@ -15,7 +15,7 @@ Chandra Sekhar Dammalapati
 
 <h3>Master Student</h3>
 
-Anne Kabarame (Spring 2025) <br><br>
+Anne Kabarame (Spring 2025)<br><br>
 Sai vivek Nalla (Spring 2025) <i>(Initial Employment: Auburn Community Hospital)</i> <br><br>
 Sai Ram Pandari (Spring 2025) <br><br>
 Aakash Pandre (Spring 2025) <br><br>
