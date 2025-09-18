@@ -16,7 +16,8 @@ author_profile: true
 <h2>Master Student</h2>
 
 <b>Anne Kabarame (Spring 2025)</b><br><br>
-<b>Sai vivek Nalla (Spring 2025) <i>(Initial Employment: Auburn Community Hospital)</i></b> <br><br>
+<b>Sai vivek Nalla (Spring 2025)<br>
+<i>(Initial Employment: Auburn Community Hospital)</i></b><br><br>
 <b>Sai Ram Pandari (Spring 2025)</b> <br><br>
 <b>Aakash Pandre (Spring 2025)</b> <br><br>
 <b>Dileep Kumar Tellakula (Spring 2025)</b> <br><br>
@@ -31,7 +32,8 @@ author_profile: true
 <b>Sreeja Tota (Fall 2023)</b> <br><br>
 <b>Nedal Lnu (Spring 2023)</b> <br><br>
 <b>Matthew Neumeyer (Spring 2023)</b> <br><br>
-<b>Emily Curtis (Fall 2022) <i>(Initial Employment: New England Medical Innovation Center (NEMIC))</i></b>
+<b>Emily Curtis (Fall 2022)<br> 
+<i>(Initial Employment: New England Medical Innovation Center (NEMIC))</i></b>
 
 <h2>Undergraduate Student</h2>
 <b>Ethan Owens (VCU Summer 2022)</b> <br><br>
