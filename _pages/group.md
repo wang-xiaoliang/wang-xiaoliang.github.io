@@ -19,8 +19,10 @@ author_profile: true
 <b>Sai vivek Nalla (Spring 2025)<br>
 <i>(Initial Employment: Auburn Community Hospital, Auburn, NY)</i></b><br><br>
 <b>Sai Ram Pandari (Spring 2025)</b> <br><br>
-<b>Aakash Pandre (Spring 2025)</b> <br><br>
-<b>Dileep Kumar Tellakula (Spring 2025)</b> <br><br>
+<b>Aakash Pandre (Spring 2025)<br>
+<i>(Initial Employment: CABS Health Network, Brooklyn, NY)</i></b><br><br>
+<b>Dileep Kumar Tellakula (Spring 2025)<br>
+<i>(Initial Employment: Velocity Clinical Research, Inc., Binghamton, NY)</i></b><br><br>
 <b>Gopi Inturi (Spring 2025)</b> <br><br>
 <b>Pavan Kumar Palepu (Spring 2025)</b> <br><br>
 <b>Srinivas Reddy Busipalli (Fall 2024)</b> <br><br>
