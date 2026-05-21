@@ -8,13 +8,16 @@ author_profile: true
 <h2>Master Student</h2>
 
 <b>Irisa Berisha</b> <br><br>
-<b>Shiju Thomas</b> <br><br>
-<b>Chandra Sekhar Dammalapati</b>
+<b>Murakonda Likhitha</b> <br><br>
 
 <h2>Alumni:</h2>
 
 <h2>Master Student</h2>
 
+<b>Jyothi Kannuru (Spring 2026)<br>
+<i>(2026 SUNY Oswego Outstanding Graduate Student Award)</i></b><br><br>
+<b>Chandra Sekhar Dammalapati (Spring 2026)</b>
+<b>Shiju Thomas (Fall 2025)</b> <br><br>
 <b>Anne Kabarame (Spring 2025)</b><br><br>
 <b>Sai vivek Nalla (Spring 2025)<br>
 <i>(Initial Employment: Auburn Community Hospital, Auburn, NY)</i></b><br><br>
@@ -38,7 +41,8 @@ author_profile: true
 <i>(Initial Employment: New England Medical Innovation Center (NEMIC), Providence, RI)</i></b>
 
 <h2>Undergraduate Student</h2>
-<b>Ethan Owens (VCU Summer 2022)</b> <br><br>
+<b>Ethan Owens (VCU Summer 2022)<br>
+<i>(2022 VMEC Gold Scholar Award)</i></b><br><br>
 <b>Justin Lowery (VSU Summer 2022)</b>
 
 
