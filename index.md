@@ -16,7 +16,7 @@ News
 
 Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2026](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
 
-May, 2026. Dr. Xiaoliang Wang has been selected as a recipient of the 2025-2026 Outstanding Graduate Mentor Award.
+May, 2026. Dr. Xiaoliang Wang has been selected as a recipient of the 2025-2026 <i>Outstanding Graduate Mentor Award</i>.
 
 Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2025](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
 
