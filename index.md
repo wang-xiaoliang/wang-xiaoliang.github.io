@@ -14,6 +14,10 @@ author_profile: true
 
 News
 
+Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2026](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
+
+May, 2026. Dr. Xiaoliang Wang has been selected as a recipient of the 2025-2026 Outstanding Graduate Mentor Award.
+
 Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2025](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
 
 April 19, 2024. Dr. Xiaoliang Wang is invited to give a talk in the Center for Vision Research at the Department of Ophthalmology in SUNY Upstate Medical University.
