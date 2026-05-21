@@ -16,7 +16,7 @@ News
 
 Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2026](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
 
-May, 2026. Dr. Xiaoliang Wang receives <i>the 2025-2026 Outstanding Graduate Mentor Award</i> in SUNY Oswego.
+May, 2026. Dr. Xiaoliang Wang receives <i>Outstanding Graduate Mentor Award</i> in SUNY Oswego.
 
 Dr. Xiaoliang Wang serves in Technical Program Committee (TPC) of [IEEE IRI 2025](https://ieee-iri.github.io/). Please consider submitting your research work. Thank you!
 
