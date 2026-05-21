@@ -14,9 +14,8 @@ author_profile: true
 
 <h2>Master Student</h2>
 
-<b>Jyothi Kannuru (Spring 2026)<br>
-<i>(2026 SUNY Oswego Outstanding Graduate Student Award)</i></b><br><br>
-<b>Chandra Sekhar Dammalapati (Spring 2026)</b>
+<b>Jyothi Kannuru (Spring 2026)</b> <br><br>
+<b>Chandra Sekhar Dammalapati (Spring 2026)</b> <br><br>
 <b>Shiju Thomas (Fall 2025)</b> <br><br>
 <b>Anne Kabarame (Spring 2025)</b><br><br>
 <b>Sai vivek Nalla (Spring 2025)<br>
