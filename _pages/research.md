@@ -43,7 +43,7 @@ accelerator development, AXI communication, on-chip memory organization, and
 performance/resource trade-offs, with future extensions to biomedical and
 health-related AI applications.
 
-![FPGA-Accelerated CNN Inference Architecture](/images/fpga-cnn-architecture.png)
+![FPGA-Accelerated CNN Inference Architecture](/images/FPGA_Edge_AI.png)
 
 **Current Research Focus**
 - FPGA-based CNN inference acceleration
