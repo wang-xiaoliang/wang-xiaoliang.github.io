@@ -32,30 +32,46 @@ div {
 
 </style>
 
-## Active Research
+## Active Research Project
 
 ### FPGA-Accelerated CNN Inference for Edge AI
-**Hardware/Software Co-Design on AMD/Xilinx PYNQ-Z2**
 
+<p style="font-size: 0.90em; margin-top: -8px;">
+<strong>Hardware/Software Co-Design on AMD/Xilinx PYNQ-Z2</strong>
+</p>
+
+<div style="font-size: 0.85em; line-height: 1.55;">
+
+<p>
 This project investigates FPGA-accelerated CNN inference for resource-constrained
 edge AI platforms. The work focuses on hardware/software co-design, HLS-based
 accelerator development, AXI communication, on-chip memory organization, and
 performance/resource trade-offs, with future extensions to biomedical and
 health-related AI applications.
+</p>
 
-![FPGA-Accelerated CNN Inference Architecture](/images/FPGA_Edge_AI.png)
+</div>
 
-**Current Research Focus**
-- FPGA-based CNN inference acceleration
-- Hardware/software co-design on PYNQ-Z2
-- C/C++ High-Level Synthesis (HLS)
-- AXI-based PS–PL communication
-- Pipelining, loop unrolling, and dataflow optimization
-- On-chip memory and data-movement optimization
-- Performance/resource trade-off analysis
-- Future extension to biomedical and health-related AI workloads
+<img src="/images/FPGA_Edge_AI.png"
+     alt="FPGA-Accelerated CNN Inference for Edge AI Architecture"
+     style="width:100%; max-width:1200px;">
 
----
+#### Current Research Focus
+
+<div style="font-size: 0.85em; line-height: 1.5;">
+
+<ul>
+  <li>FPGA-based CNN inference acceleration</li>
+  <li>Hardware/software co-design on PYNQ-Z2</li>
+  <li>C/C++ High-Level Synthesis (HLS)</li>
+  <li>AXI-based PS–PL communication</li>
+  <li>Pipelining, loop unrolling, and dataflow optimization</li>
+  <li>On-chip memory and data-movement optimization</li>
+  <li>Performance/resource trade-off analysis</li>
+  <li>Future extension to biomedical and health-related AI workloads</li>
+</ul>
+
+</div>
 
 ## Previous Research Projects
 
