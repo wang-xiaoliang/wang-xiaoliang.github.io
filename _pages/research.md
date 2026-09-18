@@ -37,7 +37,7 @@ div {
 ### FPGA-Accelerated CNN Inference for Edge AI
 
 <p style="font-size: 0.90em; margin-top: -8px;">
-<strong>Hardware/Software Co-Design on AMD/Xilinx PYNQ-Z2</strong>
+<em>Hardware/Software Co-Design on AMD/Xilinx PYNQ-Z2</em>
 </p>
 
 <div style="font-size: 0.85em; line-height: 1.55;">
@@ -56,7 +56,7 @@ health-related AI applications.
      alt="FPGA-Accelerated CNN Inference for Edge AI Architecture"
      style="width:100%; max-width:1200px;">
 
-#### Current Research Focus
+### Current Research Focus
 
 <div style="font-size: 0.85em; line-height: 1.5;">
 
