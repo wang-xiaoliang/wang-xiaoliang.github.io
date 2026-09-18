@@ -58,17 +58,14 @@ health-related AI applications.
 
 ### Current Research Focus
 
-<div style="font-size: 0.85em; line-height: 1.5;">
+<div style="font-size: 0.80em; line-height: 1.5;">
 
 <ul>
-  <li>FPGA-based CNN inference acceleration</li>
-  <li>Hardware/software co-design on PYNQ-Z2</li>
-  <li>C/C++ High-Level Synthesis (HLS)</li>
-  <li>AXI-based PS–PL communication</li>
-  <li>Pipelining, loop unrolling, and dataflow optimization</li>
-  <li>On-chip memory and data-movement optimization</li>
-  <li>Performance/resource trade-off analysis</li>
-  <li>Future extension to biomedical and health-related AI workloads</li>
+  <li>FPGA-accelerated CNN inference for edge AI</li>
+  <li>Hardware/software co-design using HLS and AXI-based PS–PL communication</li>
+  <li>Pipeline, loop unrolling, and dataflow optimization</li>
+  <li>On-chip memory optimization and performance/resource trade-off analysis</li>
+  <li>Extension to biomedical and health-related AI applications</li>
 </ul>
 
 </div>
