@@ -32,6 +32,34 @@ div {
 
 </style>
 
+## Active Research
+
+### FPGA-Accelerated CNN Inference for Edge AI
+**Hardware/Software Co-Design on AMD/Xilinx PYNQ-Z2**
+
+This project investigates FPGA-accelerated CNN inference for resource-constrained
+edge AI platforms. The work focuses on hardware/software co-design, HLS-based
+accelerator development, AXI communication, on-chip memory organization, and
+performance/resource trade-offs, with future extensions to biomedical and
+health-related AI applications.
+
+![FPGA-Accelerated CNN Inference Architecture](/images/fpga-cnn-architecture.png)
+
+**Current Research Focus**
+- FPGA-based CNN inference acceleration
+- Hardware/software co-design on PYNQ-Z2
+- C/C++ High-Level Synthesis (HLS)
+- AXI-based PS–PL communication
+- Pipelining, loop unrolling, and dataflow optimization
+- On-chip memory and data-movement optimization
+- Performance/resource trade-off analysis
+- Future extension to biomedical and health-related AI workloads
+
+---
+
+## Previous Research Projects
+
+
 <details>
   <summary>Mobile Cloud Computing for Pervasive Healthcare</summary>
 <br>
