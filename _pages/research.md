@@ -43,11 +43,7 @@ div {
 <div style="font-size: 0.85em; line-height: 1.55;">
 
 <p>
-This project investigates FPGA-accelerated CNN inference for resource-constrained
-edge AI platforms. The work focuses on hardware/software co-design, HLS-based
-accelerator development, AXI communication, on-chip memory organization, and
-performance/resource trade-offs, with future extensions to biomedical and
-health-related AI applications.
+This project investigates FPGA-based acceleration of convolutional neural network (CNN) inference for resource-constrained edge AI systems. Using the AMD/Xilinx PYNQ-Z2 platform, the work explores hardware/software co-design and HLS optimization strategies for improving CNN inference performance under FPGA resource constraints.
 </p>
 
 </div>
@@ -61,12 +57,15 @@ health-related AI applications.
 <div style="font-size: 0.80em; line-height: 1.5;">
 
 <ul>
-  <li>FPGA-accelerated CNN inference for edge AI</li>
-  <li>Hardware/software co-design using HLS and AXI-based PS–PL communication</li>
-  <li>Pipeline, loop unrolling, and dataflow optimization</li>
-  <li>On-chip memory optimization and performance/resource trade-off analysis</li>
-  <li>Extension to biomedical and health-related AI applications</li>
+  <li>Established a baseline CNN inference implementation using CIFAR-10 as an initial experimental benchmark</li>
+  <li>Developed and evaluated a baseline FPGA accelerator using Vitis HLS</li>
+  <li>Currently investigating HLS-based parallelization and optimization strategies</li>
+  <li>Evaluating performance, FPGA resource utilization, and hardware/software design trade-offs</li>
 </ul>
+
+<p>The project follows a systematic experimental methodology in which optimization strategies are evaluated against a consistent baseline design. Future work will extend the framework to more complex neural network architectures and application-specific edge AI workloads, including biomedical and health-related intelligent systems. </p>
+
+<p><em>This is an ongoing research project. Detailed experimental results will be made available through future publications.</em></p>
 
 </div>
 
